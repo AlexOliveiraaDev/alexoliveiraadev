@@ -1,6 +1,6 @@
 #### Hello World! Meu nome é Alex Oliveira, prazer!! <img src="https://raw.githubusercontent.com/AlexOliveiraaDev/alexoliveiraadev/main/assets/profile_color.gif" width="30" style="vertical-align: middle;">
 
-Futuro Desenvolvedor Full Stack cursando Análise e Desenvolvimento de Sistemas na Anhanguera, apaixonado encontrar soluções para todo tipo de problema!
+Desenvolvedor Full Stack, cursando Análise e Desenvolvimento de Sistemas na Anhanguera, apaixonado encontrar soluções para todo tipo de problema!
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAlexOliveiraaDev"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FAlexOliveiraaDev&label=VISITANTES%20(total%2Fhoje)&labelColor=%230f0f0f&countColor=%23e6e6e6&labelStyle=upper" /></a>
 
