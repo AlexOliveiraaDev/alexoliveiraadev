@@ -2,7 +2,7 @@
 
 Desenvolvedor Full Stack, cursando Análise e Desenvolvimento de Sistemas na Anhanguera, apaixonado encontrar soluções para todo tipo de problema!
 
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAlexOliveiraaDev"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FAlexOliveiraaDev&label=VISITANTES%20(total%2Fhoje)&labelColor=%230f0f0f&countColor=%23e6e6e6&labelStyle=upper" /></a>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAlexOliveiraaDev"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FAlexOliveiraaDev&label=VISITANTES%20(hoje%2Ftotal)&labelColor=%230f0f0f&countColor=%23e6e6e6&labelStyle=upper" /></a>
 
 <div style="width: max-content;">
 
