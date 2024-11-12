@@ -26,10 +26,8 @@ Desenvolvedor Full Stack, cursando Análise e Desenvolvimento de Sistemas na Anh
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 
 #### 🌱 Estou estudando atualmente:
-<div>
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
-</div>
 
 #### 📫 Você pode me encontrar em:
 
