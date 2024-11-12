@@ -11,22 +11,24 @@ Desenvolvedor Full Stack, cursando Análise e Desenvolvimento de Sistemas na Anh
 ![Csharp](https://img.shields.io/badge/CSharp-%23934B8E?style=flat-square&labelColor=%23414141&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23EFD81D?style=flat-square&labelColor=%23414141&logo=javascript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%232AAEE9?style=flat-square&labelColor=%23414141&logo=dart&logoColor=white)</div>
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
 
 ![dotNet](https://img.shields.io/badge/.NET-%23631F74?style=flat-square&labelColor=%23414141&logo=dotnet&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%23055595?style=flat-square&labelColor=%23414141&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23055595?style=flat-square&labelColor=%23414141&logo=python&logoColor=white)</div>
 
-![SQLServer](https://img.shields.io/badge/SQLServer-%23DB2A20.svg?style=flat-square&labelColor=%23414141&logo=microsoftsqlserver&logoColor=white)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&labelColor=%23414141&logo=postgresql&logoColor=white)</div>
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%232D9EEA?style=flat-square&labelColor=%23414141&logo=visual-studio-code&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-%231A9A7A?style=flat-square&labelColor=%23414141&logo=openai&logoColor=white)</div></div>
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 
 #### 🌱 Estou estudando atualmente:
 <div>
-<img src="https://img.shields.io/badge/TypeScript-%232F74C0?style=flat-square&labelColor=%23414141&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-%23DE3641?style=flat-square&labelColor=%23414141&logo=angular&logoColor=white" />
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 </div>
 
 #### 📫 Você pode me encontrar em:
