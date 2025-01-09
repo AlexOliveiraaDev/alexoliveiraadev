@@ -44,6 +44,5 @@ Desenvolvedor Full Stack, cursando Análise e Desenvolvimento de Sistemas na Anh
 
 #### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;"> Minhas estatísticas do GitHub: 
 [![Linguagens](https://github-readme-stats.vercel.app/api?username=alexoliveiraadev&show_icons=true&locale=pt-BR&&theme=dark)](https://github.com/alexoliveiraadev?tab=repositories)
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alexoliveiraadev&layout=compact&locale=pt-BR&&theme=dark)](https://github.com/alexoliveiraadev?tab=repositories)
 
 #
