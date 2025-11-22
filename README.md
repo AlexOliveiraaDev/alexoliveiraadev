@@ -36,6 +36,9 @@ Full Stack Developer from Brazil, passionate about finding solutions to all kind
 [![Gmail](https://img.shields.io/badge/contatoalexandergv@gmail.com-%230078D4.svg?style=flat-square&logo=microsoftoutlook&logoColor=black&link=mailto:contatoalexandergv@gmail.com)](mailto:contatoalexandergv@gmail.com)
 [![Workana](https://img.shields.io/badge/Workana-%23F79C42.svg?logo=workana&logoColor=white)](https://www.workana.com/freelancer/3a7f9f6eeab9cc096deca7f10d57387f)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOliveiraaDev&layout=compact&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=AlexOliveiraaDev&show_icons=true&hide_border=true)
+
 #### 🌐 My personal blog:
 
-<p><strong>Under development</strong>⚠️</p>
+https://alexoliveiraa.46graus.com
